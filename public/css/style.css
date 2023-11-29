@@ -1,0 +1,158 @@
+:root {
+    --main: #352F44;
+    --mainText: #FAF0E6;
+    --background: #B9B4C7;
+    --secondBackground: #5C5470;
+}
+
+body{
+    font-family: 'JetBrains Mono';
+    font-size: 16px;
+    text-align: center;
+    background-color: var(--background);
+}
+
+.link {
+    text-decoration: none;
+    color: var(--mainText);
+    cursor: pointer;
+}
+
+header{
+    background-color: var(--main);
+    color: var(--mainText);
+    padding: 10px 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.title {
+    text-decoration: none;
+    color: var(--mainText);
+    text-shadow: 0 0 5px var(--background);
+    font-weight: bold;
+}
+
+h1,h2{
+    margin: 5px 0;
+}
+
+nav a{
+    padding: 6px;
+}
+
+.postDiv {
+    margin: 20px;
+    background-color: var(--secondBackground);
+    border-radius: 20px;
+    border: 5px solid var(--main);
+}
+
+.card-title { 
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.post-title {
+    color: var(--mainText);
+    text-shadow: 0 0 5px var(--background);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.post-content {
+    color: var(--background)
+}
+
+.postUser {
+    color: var(--mainText);
+    text-shadow: 0 0 5px var(--background);
+    font-weight: bold;
+}
+
+.postUserP {
+    color: var(--background)
+}
+
+.date {
+    color: var(--background);
+}
+
+.dateSpan { 
+    color: var(--mainText);
+    text-shadow: 0 0 5px var(--background);
+    font-weight: bold;
+}
+
+.post { 
+    background: var(--background);
+}
+
+.dashboard-container {
+    margin: 20px;
+    background-color: var(--secondBackground);
+    border-radius: 20px;
+    border: 5px solid var(--main);
+}
+
+.dashboard-post {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.post-author {
+    color: var(--background)
+}
+
+.dashboardBtn {
+    background: var(--secondBackground);
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: var(--mainText)
+}
+
+.dashboardBtnText {
+    font-weight: bold;
+    text-decoration: none;
+    color: var(--mainText)
+}
+
+.dashboard-title {
+    font-weight: bold;
+    color: var(--main);
+}
+
+input {
+    margin: 10px;
+}
+
+.comments {
+    margin: 20px;
+    background-color: var(--secondBackground);
+    border-radius: 20px;
+    border: 5px solid var(--main);
+}
+
+.comment-list {
+    color: var(--mainText);
+    text-shadow: 0 0 5px var(--background);
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.comment-box {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: var(--background);
+}
+
+.comment-text {
+    color: var(--mainText);
+    font-weight: bold;
+}
+
+.col {
+    margin: 10px;
+}
