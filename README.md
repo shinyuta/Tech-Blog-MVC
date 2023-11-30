@@ -39,4 +39,17 @@
   Email: shinyoota@gmail.cm 
 
   ## Credits 
-  Yuta
+
+  Text-shadow (https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
+
+  handlebars documentation (https://handlebarsjs.com/)
+
+  login form (https://www.w3schools.com/howto/howto_css_login_form.asp)
+
+  color pallete (https://colorhunt.co/palette/352f445c5470b9b4c7faf0e6)
+
+  various resouces trying to fix the heroku error.
+  
+
+  
+  
