@@ -22,6 +22,10 @@
 
   ![techblog.gif](techblog.gif)
 
+  ![demo1](demo.png)
+
+  ![demo2](demo2.png)
+
   ## Licenses 
   
   This project is using the MIT license. To learn more, please click the license link listed above.
